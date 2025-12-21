@@ -1,0 +1,1 @@
+../core/spawn-persona.sh
